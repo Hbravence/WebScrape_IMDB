@@ -41,12 +41,14 @@ While the primary goal was to demonstrate web scraping, future improvements coul
 
 ## Dependencies
 - Python  
-- Selenium  
+- Selenium
+- Chromedriver
 - Pandas  
-- BeautifulSoup  
+- BeautifulSoup
+- Matplotlib
 
 ## Usage
 To run this project:
 
 ```bash
-pip install selenium pandas beautifulsoup4
+pip install selenium pandas beautifulsoup4 matplotlib
